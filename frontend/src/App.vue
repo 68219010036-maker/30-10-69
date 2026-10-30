@@ -47,7 +47,7 @@ const router = useRouter();
 const drawer = ref(null); 
 
 const menus = {
-  admin: [{ to: '/dashboard', icon: 'mdi-view=dashboard', title: 'Dashboard'}],
+  admin: [{ to: '/dashboard', icon: 'mdi-view-dashboard', title: 'Dashboard'}],
   evaluatee: [{ to: '/self', icon: 'mdi-clipboard-edit', title: 'ประเมินตนเอง'}],
   evaluator: [{ to: '/evaluate', icon: 'mdi-clipboard-check', title: 'รายชื่อที่ต้องประเมิน'}],
 };

@@ -1,7 +1,7 @@
 @media print {
   .no-print,
   .v-app-bar,
-  .v-navigation-darwer {
+  .v-navigation-drawer {
     display: none !important;
   }
   .v-main {
